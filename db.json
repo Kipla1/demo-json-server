@@ -1,9 +1,18 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "videos": [
+    {
+      "id": 1,
+      "title": "USSR Video",
+      "description": "A historical video about the USSR.",
+      "filePath": "video/USSR.mp4"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "pages": [
+    {
+      "id": "a7c9",
+      "page": "1",
+      "title": "Mona Hitler",
+      "filepath": "https://i.pinimg.com/736x/16/08/cb/1608cb2525e9f9c8585874eb6b21f478.jpg"
+    }
+  ]
 }
